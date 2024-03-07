@@ -2,7 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { ApiService } from '../api.service';
 
 @Component({
-  selector: 'app-world',
+  selector: 'app-world-app',
   templateUrl: './world.component.html',
   styleUrls: ['./world.component.css'],
   standalone: true
